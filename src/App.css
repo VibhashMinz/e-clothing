@@ -7,3 +7,7 @@ a {
     text-decoration: none; /* because we will probably never use native a tag */
     color: black;
 }
+
+* {
+    box-sizing: border-box;
+}
